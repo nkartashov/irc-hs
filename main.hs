@@ -9,7 +9,7 @@ ping :: String
 ping = "PING"
 
 pong :: String
-pong = "POMG"
+pong = "PONG"
 
 startsWith :: String -> String -> Bool
 startsWith [] [] = True
